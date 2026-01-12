@@ -41,7 +41,7 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 
 ---
 
-🌟 **关于我 (About Me):**
+🌟 **关于我 About Me:**
 
 - 🔭 我目前正在专注于... **算法学习/社团建设/项目学习**
 - 🌱 我正在学习... **算法/前端三件套/操作系统**
@@ -50,9 +50,9 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 
 ✨ **目前有的一些爱好：**
 
-<img src="https://img.shields.io/badge/Song-Vocaloid-blue?style=flat-square">
-<img src="https://img.shields.io/badge/Art-Aseprite-ff69b4?style=flat-square">
-<img src="https://img.shields.io/badge/Love-Pixel_Art-orange?style=flat-square&logo=heart">
+![][hobby-vocaloid]
+![][hobby-aseprite]
+![][hobby-pixelart]
 
 </td>
 </tr>
@@ -60,6 +60,34 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 
 <br/>
 </div>
+
+### 🔧 Tech Stacks / Tools / Platforms
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,windows,linux,gnome)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,git,vscode,figma,photoshop,premiere,gemini,kitty,catppuccin,npm,bun,vim,astro,neovim&perline=7)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neoforge,chrome,telegram,steam,obs)
+
+### 🗨️ Latest Blog Posts
+
+> [!NOTE]
+> Here showcases the articles in my blog [NknSのSitE](https://www.nkns.cc/)
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+### 📝 Notes & Thinking
+
+> [!NOTE]
+> Here showcases the notes and thinking in my notebook [NknSのSitE](https://www.nkns.cc/notes/)
+
+<!-- NOTES-LIST:START -->
+
+<!-- NOTES-LIST:END -->
 
 排版参考自 [@zhuozhiyongde](https://github.com/zhuozhiyongde)
 
@@ -77,6 +105,9 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 [social-email-shield]: https://img.shields.io/badge/-Email-white?labelColor=white&logo=gmail&logoColor=black&style=flat-square
 [social-bilibili-link]: https://space.bilibili.com/77898033
 [social-bilibili-shield]: https://img.shields.io/badge/-Bilibili-pink?labelColor=pink&logo=bilibili&logoColor=white&style=flat-square
-[social-telegram-link]: #
+[social-telegram-link]: https://t.me/nknsch
 [social-telegram-shield]: https://img.shields.io/badge/-Telegram-blue?labelColor=blue&logo=telegram&logoColor=white&style=flat-square
 [split]: https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
+[hobby-vocaloid]: https://img.shields.io/badge/Song-Vocaloid-blue?style=flat-square
+[hobby-aseprite]: https://img.shields.io/badge/Art-Aseprite-ff69b4?style=flat-square
+[hobby-pixelart]: https://img.shields.io/badge/Love-Pixel_Art-orange?style=flat-square&logo=heart
