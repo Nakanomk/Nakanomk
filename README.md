@@ -63,13 +63,7 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 
 ### 🔧 Tech Stacks / Tools / Platforms
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python)
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,windows,linux,gnome)
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github,git,vscode,figma,photoshop,premiere,gemini,kitty,catppuccin,npm,bun,vim,astro,neovim&perline=7)
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neoforge,chrome,telegram,steam,obs)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,github,git,vscode,figma,photoshop,premiere,gemini,kitty,catppuccin,npm,bun,vim,astro,neovim,ubuntu,windows,linux,gnome,neoforge,chrome,telegram,steam,obs&perline=14)
 
 ### 🗨️ Latest Blog Posts
 
