@@ -78,5 +78,5 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 [social-bilibili-link]: https://space.bilibili.com/77898033
 [social-bilibili-shield]: https://img.shields.io/badge/-Bilibili-pink?labelColor=pink&logo=bilibili&logoColor=white&style=flat-square
 [social-telegram-link]: #
-[social-telegram-shield]: https://img.shields.io/badge/-zhuozhiyongde-blue?labelColor=blue&logo=telegram&logoColor=white&style=flat-square
+[social-telegram-shield]: https://img.shields.io/badge/-Telegram-blue?labelColor=blue&logo=telegram&logoColor=white&style=flat-square
 [split]: https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
