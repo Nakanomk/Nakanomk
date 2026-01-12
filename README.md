@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 ![][banner]
 
@@ -8,7 +8,7 @@ Just a loser product made by the society and period.
 
 Just a curious sophomore developing my major in IST.
 
-Now studying in ![Huazhong University of Science and Technology](https://www.hust.edu.cn/).
+Now studying in [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
 [![][social-bilibili-shield]][social-bilibili-link]
 [![][social-telegram-shield]][social-telegram-link]
@@ -61,9 +61,9 @@ Now studying in ![Huazhong University of Science and Technology](https://www.hus
 <br/>
 </div>
 
-排版参考自 ![@zhuozhiyongde](https://github.com/zhuozhiyongde)
+排版参考自 [@zhuozhiyongde](https://github.com/zhuozhiyongde)
 
-<div>
+<div align="right">
 
 ![][signature]
 
