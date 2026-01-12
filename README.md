@@ -20,7 +20,7 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 
 <table border="0" cellpadding="0" cellspacing="0" width="90%">
 <tr>
-<td width="30%" align="center" valign="top" style="padding-right: 20px;">
+<td width="40%" align="center" valign="top" style="padding-right: 20px;">
 
   <div style="border: 4px solid #FFB6C1; border-radius: 15px; padding: 5px; box-shadow: 4px 4px 0px #FF69B4;">
   <br />
@@ -31,7 +31,7 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
   <p align="center">✨ 𝙃𝙞𝙣𝙖𝙣𝙖𝙬𝙞 𝙏𝙚𝙣𝙨𝙝𝙞 ✨</p>
 
 </td>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
 
   ### 你好呀！我是 Nakanomk 👋
 
