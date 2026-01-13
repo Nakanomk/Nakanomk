@@ -89,7 +89,16 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 > Here showcases the notes and thinking in my notebook [NknSのSitE](https://www.nkns.cc/notes/)
 
 <!-- NOTES-LIST:START -->
-
+- [Chapter VIII](https://nkns.cc/notes/csapp/chapter_viii)
+- [Chapter VII](https://nkns.cc/notes/csapp/chapter_vii)
+- [Chapter VI](https://nkns.cc/notes/csapp/chapter_vi)
+- [Chapter V](https://nkns.cc/notes/csapp/chapter_v)
+- [Chapter IV](https://nkns.cc/notes/csapp/chapter_iv)
+- [Chapter III-6](https://nkns.cc/notes/csapp/chapter_iii_6)
+- [Chapter III-5](https://nkns.cc/notes/csapp/chapter_iii_5)
+- [Chapter III-4](https://nkns.cc/notes/csapp/chapter_iii_4)
+- [Chapter III-3](https://nkns.cc/notes/csapp/chapter_iii_3)
+- [Chapter III-2](https://nkns.cc/notes/csapp/chapter_iii_2)
 <!-- NOTES-LIST:END -->
 
 排版参考自 [@zhuozhiyongde](https://github.com/zhuozhiyongde)
