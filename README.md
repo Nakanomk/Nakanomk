@@ -78,7 +78,7 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 - [Weekly_003](https://nkns.cc/blog/weekly-003)
 - [Weekly_002](https://nkns.cc/blog/weekly-002)
 - [Monthly Review May 25](https://nkns.cc/blog/monthlyreview-may25)
-- [Rust Learning](https://nkns.cc/blog/rust_learning)
+- [Weekly_005](https://nkns.cc/blog/weekly-005)
 - [How to use Steam community in Mainland China](https://nkns.cc/blog/howtousesteamcommunity)
 - [Hust Luogu Language Questions I](https://nkns.cc/blog/hustluogulanguagei)
 <!-- BLOG-POST-LIST:END -->
