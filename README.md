@@ -71,6 +71,7 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 > Here showcases the articles in my blog [NknSのSitE](https://www.nkns.cc/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Gossip260609](https://nkns.cc/blog/gossip260609)
 - [Review 2026.3.first&lpar;&rpar;](https://nkns.cc/blog/gossip)
 - [Weekly_004](https://nkns.cc/blog/weekly_004)
 - [随笔 10.17](https://nkns.cc/blog/nankai121)
@@ -80,7 +81,6 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 - [Monthly Review May 25](https://nkns.cc/blog/monthlyreview-may25)
 - [Weekly_005](https://nkns.cc/blog/weekly-005)
 - [How to use Steam community in Mainland China](https://nkns.cc/blog/howtousesteamcommunity)
-- [Hust Luogu Language Questions I](https://nkns.cc/blog/hustluogulanguagei)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📝 Notes & Thinking
