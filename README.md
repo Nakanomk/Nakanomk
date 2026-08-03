@@ -89,16 +89,16 @@ Now studying in [Huazhong University of Science and Technology](https://www.hust
 > Here showcases the notes and thinking in my notebook [NknSのSitE](https://www.nkns.cc/notes/)
 
 <!-- NOTES-LIST:START -->
+- [Seekey 开发与测试](https://nkns.cc/notes/seekey/development)
+- [Seekey 问题排查](https://nkns.cc/notes/seekey/troubleshooting)
+- [Seekey Matugen 动态配色](https://nkns.cc/notes/seekey/matugen)
+- [Seekey 显示逻辑与桌面兼容](https://nkns.cc/notes/seekey/behavior-and-compatibility)
+- [Seekey 配置与编辑器](https://nkns.cc/notes/seekey/configuration)
+- [Seekey 安装与权限](https://nkns.cc/notes/seekey/installation)
+- [Seekey 文档总览](https://nkns.cc/notes/seekey/intro)
 - [TheShell](https://nkns.cc/notes/missingsemester/theshell)
 - [MissingSemester — Intro](https://nkns.cc/notes/missingsemester/intro)
-- [Chapter12](https://nkns.cc/notes/database/chapter12)
-- [Chapter11](https://nkns.cc/notes/database/chapter11)
-- [Chapter10](https://nkns.cc/notes/database/chapter10)
-- [Chapter8](https://nkns.cc/notes/database/chapter8)
-- [Chapter7](https://nkns.cc/notes/database/chapter7)
-- [Chapter6](https://nkns.cc/notes/database/chapter6)
-- [Chapter5](https://nkns.cc/notes/database/chapter5)
-- [Chapter4](https://nkns.cc/notes/database/chapter4)
+- [Java Chapter IV 数学函数、字符和字符串](https://nkns.cc/notes/java/java_iv)
 <!-- NOTES-LIST:END -->
 
 排版参考自 [@zhuozhiyongde](https://github.com/zhuozhiyongde)
